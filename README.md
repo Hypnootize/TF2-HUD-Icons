@@ -16,17 +16,17 @@
 ## TF2 ICONS FONT
 
 BOLD VERSION
-![screen](https://i.imgur.com/lyN40BK.png)
+![screen](https://i.imgur.com/UuOKGGc.png)
 
 THIN VERSION
-![screen](https://i.imgur.com/p4TIGFB.png)
+![screen](https://i.imgur.com/cWai8ny.png)
 
 ## TF2 CHARACTER ICONS
 ![screen](https://i.imgur.com/kxyKcg7.png)
 
 ## HYPNOTIZE ICONS MASTER FONT
 *meme icons icluded*
-![screen](https://i.imgur.com/MJG2cfg.png)
+![screen](https://i.imgur.com/X44sk1T.png)
 
 ## CUSTOM FONT BUILD
 This fonts pack also gives you the possibility of building your own font.
