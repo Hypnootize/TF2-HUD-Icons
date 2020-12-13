@@ -26,7 +26,7 @@ THIN VERSION
 
 ## HYPNOTIZE ICONS MASTER FONT
 *meme icons icluded*
-![screen](https://i.imgur.com/X44sk1T.png)
+![screen](https://i.imgur.com/cu44LNn.png)
 
 ## CUSTOM FONT BUILD
 This fonts pack also gives you the possibility of building your own font.
