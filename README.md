@@ -16,17 +16,17 @@
 ## TF2 ICONS FONT
 
 BOLD VERSION
-![screen](https://i.imgur.com/UuOKGGc.png)
+![screen](https://i.imgur.com/cirWhUS.png)
 
 THIN VERSION
-![screen](https://i.imgur.com/cWai8ny.png)
+![screen](https://i.imgur.com/NGB5tyo.png)
 
 ## TF2 CHARACTER ICONS
 ![screen](https://i.imgur.com/kxyKcg7.png)
 
 ## HYPNOTIZE ICONS MASTER FONT
 *meme icons icluded*
-![screen](https://i.imgur.com/cu44LNn.png)
+![screen](https://i.imgur.com/5kCYdct.png)
 
 ## CUSTOM FONT BUILD
 This fonts pack also gives you the possibility of building your own font.
@@ -44,4 +44,5 @@ Inside Font Forge is possible to select the desired glyphs from the Hypnotize Ic
 ##### TF2 SYMBOLS:
 [Hudas Iscariote](https://github.com/DrFallen/HudasIscariote) -
 [Yahud](https://github.com/whayay/yahud) -
-[TF2 Classfont](https://github.com/Qixalite/tf2-classfont)
+[TF2 Classfont](https://github.com/Qixalite/tf2-classfont) -
+[ToonHUD](https://toonhud.com)
